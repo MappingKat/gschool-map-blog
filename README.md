@@ -2,7 +2,8 @@ Mapping Blog
 ============
 
 Welcome to the mapping blog.  You can alter this template to make a more personalized spatially-inclined blog.
-[image](https://raw.github.com/MappingKat/gschool-map-blog/master/theme/Screenshot_11_4_13_11_31_AM.png)
+
+![image](https://raw.github.com/MappingKat/gschool-map-blog/master/theme/Screenshot_11_4_13_11_31_AM.png)
 
 
 Things you must change:
