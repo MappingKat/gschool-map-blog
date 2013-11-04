@@ -7,9 +7,10 @@ Welcome to the mapping blog.  You can alter this template to make a more persona
 
 
 Things you must change:
-1. Geocoordinates.  Edit those in the js/tic.js file. 
-2. Edit the marker ids under the coordinates of the markers (in js/tic.js), in the text (index.html), and the css file. 
-3. Sprite.png... if you want to customize the icons you have to edit this image.  You may also want to change the pixel coordinates in the css file so that it renders the icons correctly. 
+-----------------------
+ 1. Geocoordinates.  Edit those in the js/tic.js file. 
+ 2. Edit the marker ids under the coordinates of the markers (in js/tic.js), in the text (index.html), and the css file. 
+ 3. Sprite.png... if you want to customize the icons you have to edit this image.  You may also want to change the pixel coordinates in the css file so that it renders the icons correctly. 
 
 
 Good luck
